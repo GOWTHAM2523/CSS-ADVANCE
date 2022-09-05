@@ -1,0 +1,41 @@
+body{
+    /* background-image: url(bc-01.jpg); */
+    background-image: linear-gradient(to right,#FF69B4	 ,blue );
+    padding: 30px;
+}
+.d1{
+    height: 650px;
+    width: 400px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+.U1{
+    text-align:left;
+    margin: 10px;
+}
+.PS1{
+    text-align:left;
+    margin: 10px;
+}
+.F1{
+    text-align: right;
+    margin: 20px;
+}
+.li{
+    margin-top: 20px;
+}
+.b1{
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right,#FF69B4	 ,blue );
+}
+input{  
+    width: 300px;
+    border: none;
+    border-bottom: 1PX solid black;
+    padding: 10px 20px;
+    outline: none
+}
+img
