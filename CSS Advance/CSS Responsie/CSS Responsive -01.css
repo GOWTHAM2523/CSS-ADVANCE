@@ -1,0 +1,76 @@
+
+.col-1{
+    width: 8.33%;float: left;
+}
+
+.col-2{
+    width: 16.66%;float: left;
+}
+.col-3{
+    width:25%;float: left;
+}
+.col-4{
+    width:33%; float: left;
+}
+.col-5{
+    width:41%;float: left;
+}
+.col-6{
+    width:50%;float: left;
+}
+.col-7{
+    width:58%;float: left;
+}
+.col-8{
+    width:66%;float: left;
+}
+.col-9{
+    width:75%;float: left;
+}
+.col-10{
+    width:83%;float: left;
+}
+.col-11{
+    width:91%;float: left;
+}
+.col-12{
+    width:100%;float: left;
+}
+
+.First
+{
+    background-color: orange;
+    color: white;
+}
+.Second
+{
+    background-color: white;
+    color: black;
+}
+.third
+{
+    background-color: green;
+    color: white;
+}
+@media only screen and (min-width: 420px) and (max-width: 820px) {
+    [class *='col-']
+    {
+        width: 100%;
+    }
+
+.First
+{
+    background-color: red;
+    color: white;
+}
+.Second
+{
+    background-color: green;
+    color: black;
+}
+.third
+{
+    background-color: orange;
+    color: white;
+}
+}

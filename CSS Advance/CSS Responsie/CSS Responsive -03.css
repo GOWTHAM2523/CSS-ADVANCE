@@ -1,0 +1,27 @@
+ol{
+    padding: 0;
+    list-style: none;
+}
+ol li{
+    border-top: 5px solid black;
+    width: 100px;
+    padding: 10px;
+    color: green;
+}
+li:first-child{
+border:none;
+color: red;
+/* background-color: black; */
+}
+li:last-child{
+    border: none;
+    color: red;
+    /* background-color: black; */
+    }
+
+    table th{
+        background-color: blue;
+    }
+    tbody tr:nth-child(odd){
+        background-color: red;
+    }

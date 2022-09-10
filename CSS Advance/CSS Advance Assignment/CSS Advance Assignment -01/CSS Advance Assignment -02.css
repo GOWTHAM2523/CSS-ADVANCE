@@ -1,0 +1,169 @@
+@media only screen and (min-width:920px){
+
+    .Firstimage
+    {
+        background-image: url(https://yometro.com/images/places/coimbatore.jpg);
+        background-repeat: no-repeat;
+        background-size:contain;
+        height: 100vh;
+        width: 100%;
+        
+    }
+    .secondimage
+    {
+        background-image: url(https://threebestrated.in/images/ArulmiguMaruthamalaiMuruganTemple-Coimbatore-TN.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 300px;
+        width: 500px;
+    }
+    .paragraph{ 
+        height: 500px;
+        width: 600px;
+        padding-left: 600px;
+        margin-top: -300px;
+        text-align: justify;
+    }
+}
+/* @media only screen and (max-width: 800px) {
+    .Firstimage{
+    background-image: url(https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2018/07/25/706761-adiyogikangana.gif);
+    background-repeat: no-repeat;
+    background-size:contain;
+    height: 100vh;
+    width: 100%;
+    
+}
+    .secondimage{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJv4-uLrPiXNnWPxZ1UYmb-jkCcaznHT-QuA&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 500px;
+}
+    .paragraph{ 
+    height: 500px;
+    width: 600px;
+    padding-left: 600px;
+    margin-top: -300px;
+    text-align: justify;
+    color: black;
+}
+    .button1{
+    border-radius: 10px;
+    background-color: red;
+    }
+}    */
+@media only screen and (max-width: 900px)
+ {
+    .Firstimage
+    {
+        background-image: url(https://gumlet.assettype.com/dtnext/2022-08/4099b6d4-6706-41b1-bfb2-9eec5c667c60/Untitled_15_.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max);
+        background-repeat: no-repeat;
+        background-size:contain;
+        height: 100vh;
+        width: 100%;
+        
+    }
+    .secondimage
+    {
+        background-image: url(https://st.indiarailinfo.com/kjfdsuiemjvcya22/0/9/8/3/4434983/0/save201909221402011629029.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 300px;
+        width: 500px;
+    }
+    .paragraph{ 
+        height: 500px;
+        width: 600px;
+        padding-left: 600px;
+        margin-top: -300px;
+        text-align: justify;
+        /* background-color: black; */
+    }
+    .button1{
+        background-color: red;
+    }
+}
+/* @media only screen and (max-width: 819px) 
+{
+    .Firstimage
+    {
+        background-image: url(https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2018/07/25/706761-adiyogikangana.gif);
+        background-repeat: no-repeat;
+        background-size:contain;
+        height: 100vh;
+        width: 100%;
+        
+    }
+    .secondimage
+    {
+        background-image: url(https://st.indiarailinfo.com/kjfdsuiemjvcya22/0/9/8/3/4434983/0/save201909221402011629029.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 300px;
+        width: 500px;
+    }
+    .paragraph
+    { 
+        height: 500px;
+        width: 600px;
+        padding-left: 600px;
+        margin-top: -300px;
+        text-align: justify;
+        background-color: black;
+    /* } */
+    /* .button1
+    {
+        background-color: red;
+    }
+} */    
+
+
+.col-1{
+    width: 8.33%;
+}
+
+.col-2{
+    width: 16.66%;
+}
+.col-3{
+    width:25%
+}
+.col-4{
+    width:33%
+}
+.col-5{
+    width:41%
+}
+.col-6{
+    width:50%
+}
+.col-7{
+    width:58%
+}
+.col-8{
+    width:66%
+}
+.col-9{
+    width:75%
+}
+.col-10{
+    width:83%
+}
+.col-11{
+    width:91%
+}
+.col-12{
+    width:100%
+}
+
+
+@media only screen and(max-width :768px) {
+
+    [class *="col-"]
+    {
+        width:100%;
+    }
+    
+}
